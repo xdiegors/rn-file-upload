@@ -4,10 +4,10 @@ To see it in action, start both Node and React.
 
 ## Requirements to run
 
-Node
-TypeScript (npm install -g typescript)
-nodemon (npm install -g nodemon)
-ts-node (npm install -g ts-node)
+- Node
+- TypeScript (npm install -g typescript)
+- nodemon (npm install -g nodemon)
+- ts-node (npm install -g ts-node)
 
 ## 1 - Run the Node backend:
 
