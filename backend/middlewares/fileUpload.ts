@@ -1,7 +1,7 @@
 import { Request } from "express";
 import multer from "multer";
 
-const maxSize = 3 * 1024 * 1024; // size in bytes - sets the maxSize to 2MB
+const maxSize = 2 * 1024 * 1024; // size in bytes - sets the maxSize to 2MB
 
 let storage = multer.diskStorage({
   destination: (req: Request, file: Express.Multer.File, cb) => {
